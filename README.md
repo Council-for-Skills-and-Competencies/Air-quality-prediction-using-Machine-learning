@@ -1,4 +1,4 @@
-# Air Quality Prediction Project
+# Air Quality Prediction using Machine learning
 
 ## About the Project
 Air pollution is getting worse every year because of vehicles, factories, and city growth. Pollutants like PM2.5 and PM10 affect our health and environment. The goal of this project is to use machine learning to predict the **Air Quality Index (AQI)** so that people and governments can take action in time.
